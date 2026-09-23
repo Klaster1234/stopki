@@ -1,6 +1,6 @@
 # Stopki mailowe zespołu Klastra
 
-Jedna stopka dla wszystkich: czarno-biała, po angielsku (nazwa fundacji po polsku, pod nią „Cluster of Social Innovations”), znak Klastra, dane osoby, adres biura w Gliwicach. Trzy style: A czarny kafelek ze znakiem i tekst obok, B kompaktowa wizytówka z kreską, C układ pionowy ze znakiem nad nazwiskiem.
+Jedna stopka dla wszystkich: czarno-biała, po angielsku (nazwa fundacji po polsku, pod nią „Cluster of Social Innovations”), znak Klastra, dane osoby, adres biura w Gliwicach. Trzy style: A trzy linijki obok czarnego kafelka ze znakiem (domyślny), B wizytówka z kreską i adresem, C układ pionowy ze znakiem nad nazwiskiem.
 
 ## Zrób swoją stopkę
 1. `python generuj.py --styl A --imie "Anna Nowak" --stanowisko "Project Coordinator" --telefon "+48 732 259 513" --email anna.nowak@klaster.org.pl`
